@@ -9,6 +9,7 @@
 
 
 
+
     <application
         android:name=".app.App"
         android:allowBackup="true"
